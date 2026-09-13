@@ -298,7 +298,7 @@ prb.BackgroundColor3 = Color3.fromRGB(100,60,60)
 prb.TextColor3 = Color3.fromRGB(255,255,255)
 prb.Text = "probs"
 prb.Font = Enum.Font.
-[9/13/26 3:30 PM] vęrsace: GothamBold
+GothamBold
 prb.TextSize = 13
 prb.Parent = main
 
