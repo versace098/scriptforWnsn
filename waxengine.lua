@@ -1,4 +1,4 @@
-[9/13/26 3:30 PM] vęrsace: #made by versace little faggot#
+#made by versace little faggot#
 local plr = game.Players.LocalPlayer
 local gui = Instance.new("ScreenGui")
 gui.Name = "waxgui"
